@@ -1,7 +1,7 @@
 # AI-Server-Configuration-CN
 人工智能服务器配置，适合需要自己配置服务器，有一定用户管理需求的高校实验室
 
-[Linux服务器断网及重启后自动重新拨号，适合个人及高校实验室](https://github.com/gyguo/Linux-Automatic-Dialing)
+相关：[Linux服务器断网及重启后自动重新拨号，适合个人及高校实验室](https://github.com/gyguo/Linux-Automatic-Dialing)
 
 ---
 ## 目录
